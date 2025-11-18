@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "device_type": "monitor",
+    "brand": "BrandX",
+    "price": 510,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 12,
+      "storage_gb": 512
+    }
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "device_type": "desktop",
+    "brand": "BrandX",
+    "price": 520,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 768
+    }
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "device_type": "laptop",
+    "brand": "BrandX",
+    "price": 530,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 20,
+      "storage_gb": 256
+    }
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "device_type": "monitor",
+    "brand": "BrandX",
+    "price": 540,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 512
+    }
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "device_type": "desktop",
+    "brand": "BrandX",
+    "price": 550,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 12,
+      "storage_gb": 768
+    }
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "device_type": "laptop",
+    "brand": "BrandX",
+    "price": 560,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 256
+    }
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "device_type": "monitor",
+    "brand": "BrandX",
+    "price": 570,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 20,
+      "storage_gb": 512
+    }
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "device_type": "desktop",
+    "brand": "BrandX",
+    "price": 580,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 768
+    }
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "device_type": "laptop",
+    "brand": "BrandX",
+    "price": 590,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 12,
+      "storage_gb": 256
+    }
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "device_type": "monitor",
+    "brand": "BrandX",
+    "price": 600,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 512
+    }
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "device_type": "desktop",
+    "brand": "BrandX",
+    "price": 610,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 20,
+      "storage_gb": 768
+    }
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "device_type": "laptop",
+    "brand": "BrandX",
+    "price": 620,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "device_type": "monitor",
+    "brand": "BrandX",
+    "price": 630,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 12,
+      "storage_gb": 512
+    }
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "device_type": "desktop",
+    "brand": "BrandX",
+    "price": 640,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 768
+    }
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "device_type": "laptop",
+    "brand": "BrandX",
+    "price": 650,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 20,
+      "storage_gb": 256
+    }
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "device_type": "monitor",
+    "brand": "BrandX",
+    "price": 660,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 512
+    }
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "device_type": "desktop",
+    "brand": "BrandX",
+    "price": 670,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 12,
+      "storage_gb": 768
+    }
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "device_type": "laptop",
+    "brand": "BrandX",
+    "price": 680,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 256
+    }
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "device_type": "monitor",
+    "brand": "BrandX",
+    "price": 690,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 20,
+      "storage_gb": 512
+    }
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "device_type": "desktop",
+    "brand": "BrandX",
+    "price": 700,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 768
+    }
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "device_type": "laptop",
+    "brand": "BrandX",
+    "price": 710,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 12,
+      "storage_gb": 256
+    }
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "device_type": "monitor",
+    "brand": "BrandX",
+    "price": 720,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 512
+    }
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "device_type": "desktop",
+    "brand": "BrandX",
+    "price": 730,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 20,
+      "storage_gb": 768
+    }
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "device_type": "laptop",
+    "brand": "BrandX",
+    "price": 740,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "id": 25,
+    "name": "Product 25",
+    "device_type": "monitor",
+    "brand": "BrandX",
+    "price": 750,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 12,
+      "storage_gb": 512
+    }
+  },
+  {
+    "id": 26,
+    "name": "Product 26",
+    "device_type": "desktop",
+    "brand": "BrandX",
+    "price": 760,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 768
+    }
+  },
+  {
+    "id": 27,
+    "name": "Product 27",
+    "device_type": "laptop",
+    "brand": "BrandX",
+    "price": 770,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 20,
+      "storage_gb": 256
+    }
+  },
+  {
+    "id": 28,
+    "name": "Product 28",
+    "device_type": "monitor",
+    "brand": "BrandX",
+    "price": 780,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 512
+    }
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "device_type": "desktop",
+    "brand": "BrandX",
+    "price": 790,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 12,
+      "storage_gb": 768
+    }
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "device_type": "laptop",
+    "brand": "BrandX",
+    "price": 800,
+    "stock": 20,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 256
+    }
+  }
+]
